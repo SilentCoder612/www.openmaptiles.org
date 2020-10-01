@@ -1,3 +1,20 @@
+
+#navbar-top .nav a:hover, #navbar-top-small .nav a:hover, #navbar-top .nav a:focus, #navbar-top-small .nav a:focus, #navbar-top .nav a.active, #navbar-top-small .nav a.active
+{
+    color: #658bb1;
+    background-color: transparent;
+}
+}
+constructed stylesheet
+#navbar-top .logo h1:hover, #navbar-top-small .logo h1:hover, #navbar-top .title:hover, #navbar-top-small .title:hover {
+  color: #658bb1; 
+  text-decoration: none;
+}
+
+.foot .container : hover{
+    color: #658bb1;
+}
+
 .mapbox-gl-inspect_popup {
   color: #333;
   display: table;
